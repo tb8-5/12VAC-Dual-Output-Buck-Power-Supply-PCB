@@ -3,7 +3,7 @@
 **Status:** Design Complete / Fabrication Pending  
 **Input:** 12 VAC RMS, 60 Hz  
 **Outputs:** Fixed 5 V and 3.3 V rails  
-**PCB:** 2-layer, 80.15 mm × 34.20 mm, 1.6 mm FR-4  
+**PCB:** 2-layer, 80.15 mm × 34.20 mm, 1.6 mm FR-4  ** Subject to Design Changes due to part availability
 **Design tools:** KiCad 9 and LTspice
 
 ![KiCad 3D render of the completed dual-output PSU PCB](03_kicad/screenshots/psu_main_scrshot.png)
@@ -73,7 +73,7 @@ The 3.3 V output uses an **AP63203WU** fixed-output synchronous buck converter w
 
 - **GMK316BJ106KL-T**, 10 µF input capacitor
 - **C0603C104K5RACTU**, 100 nF bootstrap capacitor
-- **SWPA6028S3R9NT**, 3.9 µH power inductor
+- **SWPA6028S3R9NT**, 3.9 µH power inductor ** Subject to change due to product availability
 - Two **TMK316BBJ226ML-T**, 22 µF output capacitors in parallel
 
 The output is available through connector `J3` and test point `TP_3V3`.
