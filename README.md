@@ -1,6 +1,6 @@
 # 12VAC Dual-Output Buck Power Supply PCB
 
-**Status:** Design Complete / Fabrication Pending  
+**Status:** Design Complete / Fabrication In Progress  
 **Input:** 12 VAC RMS, 60 Hz  
 **Outputs:** Fixed 5 V and 3.3 V rails  
 **PCB:** 2-layer, 80.15 mm × 34.20 mm, 1.6 mm FR-4  
@@ -312,7 +312,7 @@ The top-side position file contains all 21 populated BOM components. The bottom-
 - Top and bottom component-position-file generation
 - Fabrication package review
 
-### Pending — After Fabrication
+### Pending - Board Review
 
 The board has not yet been physically validated. Bench testing will include:
 
